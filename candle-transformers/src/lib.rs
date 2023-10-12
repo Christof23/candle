@@ -1,3 +1,8 @@
+#![allow(unused_imports)]
+#![allow(dead_code)]
+#![allow(unused_variables)]
+#![allow(unused_mut)]
+
 pub mod generation;
 pub mod models;
 pub mod object_detection;
